@@ -17,4 +17,4 @@ Download chatriggers (if not already installed) from [here](https://chattriggers
 3. Restart Minecraft or run `/ct load` in-game.
 
 ## Usage
-_To open the GUI, the command is /dojo!_ --- Enjoy!
+_To open the GUI, the command is /nuker!_ --- Enjoy!
